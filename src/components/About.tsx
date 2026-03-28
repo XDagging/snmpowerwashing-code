@@ -12,7 +12,7 @@ const FEATURES = [
     desc: 'Not happy? We come back and re-clean at no charge — simple as that.',
   },
   {
-    title: '10+ Years Experience',
+    title: '3+ Years Experience',
     desc: 'Hundreds of satisfied customers across the region trust us year after year.',
   },
   {
